@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" alt="Kaushik2201 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kaushik2201&show_icons=true&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik2201&theme=buefy&hide_border=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik2201&show_icons=true&hide_border=true" /></a>
