@@ -10,8 +10,6 @@ I am Kaushik and currently persuing my B.Tech degree in Electrical Engineering a
 
 - [![An image of @kaushik2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushik2201)](https://holopin.io/@kaushik2201)
 - <img align="left" alt="Kaushik2201 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kaushik2201&show_icons=true&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik2201&show_icons=true&hide_border=true" /></a>
-
 <!--
 **Kaushik2201/Kaushik2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
