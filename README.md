@@ -6,7 +6,7 @@ I am Kaushik and currently persuing my B.Tech degree in Electrical Engineering a
 - 🌱 I’m intersted in Application and Web Development
 - 😄 I’m currently working with JAVA, MERN and Ruby
 - 🔭 I’m currently working on TODO Application Using Ruby
-- 📫 You can reach me at - [mail](kaushikkudchadkar5@gmail.com)
+- 📫 You can reach me at - kaushikkudchadkar5@gmail.com
 
 - [![An image of @kaushik2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushik2201)](https://holopin.io/@kaushik2201)
   
