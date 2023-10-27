@@ -12,8 +12,7 @@ I am Kaushik and currently persuing my B.Tech degree in Electrical Engineering a
   
  <img align="left" alt="Kaushik2201 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kaushik2201&show_icons=true&hide_border=true" /> <br/>
 
-
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik2201&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik2201&show_icons=true&hide_border=true" /></a>
 - ![](https://github-readme-streak-stats.herokuapp.com/?user=kaushik2201&theme=city_light&hide_border=false)<br/>
 
 
