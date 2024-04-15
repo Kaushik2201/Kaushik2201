@@ -4,8 +4,8 @@ I am Kaushik and currently persuing my B.Tech degree in Electrical Engineering a
 
 
 - 🌱 I’m intersted in Application and Web Development
-- 😄 I’m currently working with MERN, Flutter and Typescript
-- 🔭 I’m currently working on making a real time movie streaming portal with MERN and WebRTC
+- 😄 I’m currently working with MERN and Flutter
+- 🔭 I’m currently working on Data Structures and Algorithms
 - 📫 You can reach me at - kaushikkudchadkar5@gmail.com
 
 <img align="left" alt="Kaushik2201 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kaushik2201&show_icons=true&hide_border=true" />
